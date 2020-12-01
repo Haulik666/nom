@@ -1,0 +1,34 @@
+* {
+	background-color:#ffd633;
+	font-family: Arial
+}
+
+
+table, th, td {
+	border: 2px solid;
+	text-align: center;
+	padding: 10px;
+	border-color: white;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+#tab {
+	color: DodgerBlue
+}
+
+
+.titre {
+	color: #990000;
+}
+
+* {
+	color: #333333;
+}
+
+h2 {
+	margin-left: 50px;
+}
